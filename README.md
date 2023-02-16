@@ -1,17 +1,7 @@
-# food_tracker
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
 # FOODE
+
+This is a flutter project that was created as part of Kaleyra recruitment. Worked for around 10 hours non-stop on this project but unfortunately, could not get through 🥲.
+
+Anyways, FOODE lets you track your calories you have consumed for a day. 
+
+The project is connected to a firebase backend and uses firestore as database
